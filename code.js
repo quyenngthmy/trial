@@ -3,5 +3,6 @@ var b = 5;
 console.log(a);
 console.log(b);
 console.log('xin chao');
-var isHidden = true
+var isHidden = true;
 console.log(isHidden);
+//fdadfd
